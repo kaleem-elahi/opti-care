@@ -1,0 +1,35 @@
+{
+  "name": "example-pawjs-material-ui",
+  "version": "1.0.0",
+  "description": "Example on using Material UI with PawJS",
+  "scripts": {
+    "start": "pawjs --env=development start",
+    "build": "pawjs --env=production --config=prod.pawconfig.json build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleem-elahi/opti-care.git"
+  },
+  "author": {
+    "name": "Kaleem Shaikh",
+    "email": "shaikh9996@gmail.com",
+    "url": "https://www.kaleemelahi.co/"
+  },
+  "engines": {
+    "node": ">=10.11.0"
+  },
+  "devDependencies": {
+    "@pawjs/pawjs": "^2.2.6"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaleem-elahi/opti-care/issues"
+  },
+  "homepage": "https://github.com/kaleem-elahi/opti-care#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.3.0",
+    "@material-ui/icons": "^3.0.1",
+    "react-jss": "^8.6.1",
+    "recharts": "^1.3.4"
+  }
+}
