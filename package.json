@@ -19,7 +19,7 @@
     "node": ">=10.11.0"
   },
   "devDependencies": {
-    "@pawjs/pawjs": "^2.2.6"
+    "@pawjs/pawjs": "^4.0.0-beta.19"
   },
   "license": "MIT",
   "bugs": {
